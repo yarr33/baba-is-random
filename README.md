@@ -1,4 +1,7 @@
 # baba-is-random
+
+baba is random - aka you baba is 
+
 asset randomizer tool for baba is you
 
 baba is random can randomize: sprites, music, sfx, text, palettes, and colors.
